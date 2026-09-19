@@ -67,6 +67,19 @@ Resume + Job Description
 
 The application also uses a job-market dataset to identify technical skills that frequently appear in internship job descriptions.
 
+## Screenshots
+
+1. Main interface
+
+<img width="754" height="793" alt="Screenshot 2026-09-19 at 5 22 33 PM" src="https://github.com/user-attachments/assets/9c7fe957-eff0-4f86-a19a-473561d6fa3a" />
+
+2. Analyze feature
+
+<img width="780" height="788" alt="Screenshot 2026-09-19 at 5 23 35 PM" src="https://github.com/user-attachments/assets/db58627e-b9bd-419d-93d4-d9a601188e9a" />
+
+ <img width="750" height="786" alt="Screenshot 2026-09-19 at 5 29 46 PM" src="https://github.com/user-attachments/assets/c92b1276-3432-499d-99c1-10bd178eaaa8" />
+
+
 ## Project Structure
 
 ```text
