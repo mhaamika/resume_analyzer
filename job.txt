@@ -1,0 +1,34 @@
+SOFTWARE ENGINEERING INTERN
+
+Company: TechNova Solutions
+
+We are looking for a Software Engineering Intern to join our development team and contribute to software projects while gaining experience in a professional engineering environment.
+
+RESPONSIBILITIES
+
+- Develop and maintain software applications.
+- Write clean, readable, and maintainable code.
+- Work with other developers to design and implement new features.
+- Debug and troubleshoot software issues.
+- Write SQL queries and work with relational databases.
+- Use Git and GitHub for version control.
+- Participate in code reviews and testing.
+- Analyze technical problems and develop effective solutions.
+
+REQUIREMENTS
+
+- Currently pursuing a degree in Computer Science, Software Engineering, or a related field.
+- Experience with Python or Java.
+- Understanding of object-oriented programming.
+- Knowledge of data structures and algorithms.
+- Basic SQL knowledge.
+- Familiarity with Git and GitHub.
+- Strong problem-solving and communication skills.
+
+PREFERRED QUALIFICATIONS
+
+- Experience with Pandas or other Python data-analysis libraries.
+- Experience with REST APIs.
+- Familiarity with Docker.
+- Knowledge of cloud platforms such as AWS.
+- Experience working on software projects outside of coursework.

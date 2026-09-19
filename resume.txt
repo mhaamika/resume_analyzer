@@ -1,0 +1,48 @@
+Brian Smith
+Information Technology Student
+
+EDUCATION
+Bachelor of Science in Information Technology
+Riverside State University
+Expected Graduation: May 2028
+
+TECHNICAL SKILLS
+JavaScript
+TypeScript
+React
+Node.js
+HTML
+CSS
+Git
+GitHub
+MongoDB
+REST APIs
+
+PROJECTS
+
+Campus Event Planner
+- Developed a web application for students to discover and organize campus events.
+- Built interactive pages using React and JavaScript.
+- Stored event information in a MongoDB database.
+- Used GitHub for version control and project collaboration.
+
+Personal Budget Tracker
+- Created a web application to track monthly expenses and savings.
+- Implemented forms for adding and categorizing transactions.
+- Designed a responsive interface using HTML and CSS.
+
+EXPERIENCE
+
+Technology Support Assistant
+Riverside State University
+- Assisted students and staff with common computer and software issues.
+- Helped troubleshoot account and network connectivity problems.
+- Documented technical issues and solutions for future reference.
+
+COURSEWORK
+Web Development
+Database Management
+Computer Networking
+Systems Analysis
+Programming Fundamentals
+Information Security
