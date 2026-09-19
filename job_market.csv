@@ -1,0 +1,11 @@
+job_title,company,python,java,sql,git,aws,docker,pandas,machine_learning
+Software Engineering Intern,TechCorp,1,1,1,1,1,1,0,0
+Software Developer Intern,CodeWorks,1,1,1,1,0,1,0,0
+Backend Engineering Intern,DataSystems,1,1,1,1,1,1,0,0
+Data Science Intern,AnalyticsCo,1,0,1,1,1,0,1,1
+Machine Learning Intern,AI Labs,1,0,1,1,1,1,1,1
+Data Analyst Intern,InsightTech,1,0,1,1,1,0,1,0
+Software Engineering Intern,CloudTech,1,1,1,1,1,1,0,0
+AI Engineering Intern,FutureAI,1,1,1,1,1,1,1,1
+Python Developer Intern,PythonWorks,1,0,1,1,1,1,1,0
+Full Stack Intern,WebTech,1,1,1,1,0,1,0,0
